@@ -10,7 +10,7 @@ environments, I wanted to understand exactly how web applications are broken int
 and more importantly, how to secure them against modern attack vectors.
 
 ### Completed labs
-* [SQL Injection Lab 1: WHERE clause vulnerability allowing retrieval of hidden data](sql-injection-lab-1.md)
+* [writeup: SQL Injection Lab 1 WHERE clause vulnerability allowing retrieval of hidden data](sql-injection-lab-1.md)
 * [writeup: reflected XSS into HTML context](xss-lab-1.md)
 
 ### My next steps
