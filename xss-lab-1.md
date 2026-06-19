@@ -29,3 +29,6 @@ layer of defense.
 strings back into the HTML body. Additionally, implementing a robust Content Security 
 Policy (CSP) restricts the execution of inline scripts, providing a strong layer 
 of defense.
+
+<img width="1122" height="631" alt="image" src="https://github.com/user-attachments/assets/09f84d52-ba91-46ff-9848-e79e43bc0d13" />
+
