@@ -18,4 +18,4 @@ and more importantly, how to secure them against modern attack vectors.
 
 I also completed a project on:
 ### Password Hashing + Strength Demo (Java)
- You can view the full source code and setup documentation for my Java application inside the `project/` directory of this repository.
+ You can view the full source code and setup documentation for my Java application inside the [project] directory of this repository.
