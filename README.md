@@ -10,10 +10,5 @@ environments, I wanted to understand exactly how web applications are broken int
 and more importantly, how to secure them against modern attack vectors.
 
 ### Completed labs
-* [writeup: SQL Injection Lab 1 WHERE clause vulnerability allowing retrieval of hidden data](sql-injection-lab-1.md)
-* [writeup: reflected XSS into HTML context](xss-lab-1.md)
-
-### My next steps
-* Master advanced SQL Injection techniques, including UNION-based attacks and blind SQLi
-* Explore authentication bypass vulnerabilities and session management flaws
-* Study Broken Object Level Authorization (IDOR) to understand API-level security risks
+* [writeup: SQL Injection Lab 1 WHERE clause vulnerability allowing retrieval of hidden data](writeups/sql-injection-lab-1.md)
+* [writeup: reflected XSS into HTML context](writeups/xss-lab-1.md)
